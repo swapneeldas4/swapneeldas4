@@ -5,10 +5,10 @@
 
 I made this project so that people can see my skills.
 
-Skills: HTML / CSS / JaveScript / Python / C++
+Skills: HTML / CSS / JaveScript / C++
 
 - 🔭 I’m currently working on Student 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning JavaScript & C++
 - 💬 Ask me about Web Development 
 
 
