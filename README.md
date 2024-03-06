@@ -1,14 +1,13 @@
 ![I want to be a web developer.](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxMSYWWwAnX6miWpJkbmEiJ2VIsNQ8jMyLoTHVqrk-CbQqnN4p80Wk9XQhmZmr-clSk2tpB6LEzVyCGi_plIPf9czh_vykyzbE4gaGNfi1fv2jwE3fJqKfj7329n2bC-SypoWZA_mjJKoDsWEHis5mEfhrU-Q6QGqhruHKvjauu-ujpb6a0kHJyRA4H2kv/s3151/1696016817037-01-01-01.jpg)
 ### Hi there 👋, my name is Swapneel Das
-#### I want to be a web developer.
+#### I like to share my skills
 
 
-I made this project so that people can see my skills.
 
-Skills: HTML / CSS / JaveScript / C++
+Skills: HTML / CSS / JaveScript 
 
 - 🔭 I’m currently working on Student 
-- 🌱 I’m currently learning JavaScript & C++
+- 🌱 I’m currently learning JavaScript
 - 💬 Ask me about Web Development 
 
 
